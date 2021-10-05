@@ -1,6 +1,6 @@
 # Calc                                        
                       
-. (҂`_´) AAAAAAA PODEROSSISIMA CALCULADORA EM C#                      
+. (҂`_´) AAAAAAA PODEROSISSIMA CALCULADORA EM C#                      
 <,︻╦̵̵̿╤─ ҉ ~ •                            
 █۞███████]▄▄▄▄▄▄▄▄▄▄▃ ●●●                     
 ▂▄▅█████████▅▄▃▂…                      
